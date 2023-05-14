@@ -1,1 +1,1 @@
-from projectrexa import initiate_sso, verify_callback
+from .sso import initiate_sso, verify_callback

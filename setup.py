@@ -19,7 +19,7 @@ name='projectrexa',
 packages=find_packages(','),
 
 # Project version number:
-version='0.0.0.4',
+version='0.0.0.5',
 
 # List a license for the project, eg. MIT License
 license='MIT',
@@ -41,7 +41,7 @@ author_email='admin@projectrexa.ml',
 url='https://projectrexa.ml',
 
 # Download Link from where the project can be downloaded from:
-download_url='https://github.com/Om-Mishra7/ProjectRexa-PyPI/archive/refs/tags/v_0.0.0.4.tar.gz',
+download_url='https://github.com/Om-Mishra7/ProjectRexa-PyPI/archive/refs/tags/v_0.0.0.5.tar.gz',
 
 # List of keywords: 
 keywords=['ProjectRexa'],
