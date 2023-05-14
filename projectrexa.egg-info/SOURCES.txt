@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-projectrexa.egg-info/PKG-INFO
-projectrexa.egg-info/SOURCES.txt
-projectrexa.egg-info/dependency_links.txt
-projectrexa.egg-info/requires.txt
-projectrexa.egg-info/top_level.txt
